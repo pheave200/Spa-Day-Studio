@@ -9,6 +9,7 @@ import java.util.ArrayList;
 
 
 @Controller
+
 public class SpaDayController {
 
     @GetMapping
